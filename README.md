@@ -6,15 +6,15 @@ My name is Kelsie. I'm a Front-End Developer.
 I started my programming journey in December 2022 🎊. I enjoy building user friendly web applications ✨. In my free time, you can find me getting lost in a fantasy novel 🧚‍♀️, playing Stardew Valley 🎮 or getting creative in my bullet journal 📗.
 
 # 💎 Work in Progress
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=KelsiePaige\&repo=audiophile-ecommerce-website\&title_color=c792ea\&icon_color=89ddff\&text_color=a6accd\&bg_color=292d3e)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=KelsiePaige\&repo=designo\&title_color=c792ea\&icon_color=89ddff\&text_color=a6accd\&bg_color=292d3e)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=KelsiePaige\&repo=designo\&title_color=c792ea\&icon_color=89ddff\&text_color=a6accd\&bg_color=292d3e)](https://github.com/KelsiePaige/designo)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=KelsiePaige\&repo=audiophile-ecommerce-website\&title_color=c792ea\&icon_color=89ddff\&text_color=a6accd\&bg_color=292d3e)](https://github.com/KelsiePaige/audiophile-ecommerce-website)
 
 # ✨ Top Projects
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=KelsiePaige\&repo=guess-the-word\&title_color=c792ea\&icon_color=89ddff\&text_color=a6accd\&bg_color=292d3e)
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=KelsiePaige\&repo=unplugged-project\&title_color=c792ea\&icon_color=89ddff\&text_color=a6accd\&bg_color=292d3e)
 
-<!-- # 🛠 Languages & Tools
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KelsiePaige&theme=material-palenight)](https://github.com/KelsiePaige/github-readme-stats) -->
+<!--# 🛠 Languages & Tools
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KelsiePaige&theme=material-palenight)](https://github.com/KelsiePaige/github-readme-stats)--> 
 
 <!-- ## Languages & Tools I'm Learning 
 Coming Soon
@@ -31,6 +31,9 @@ Coming Soon -->
 
 # 😜 Fun Fact:
 A shrimp's heart is in its head...guess they really think with their heart 🦐❤😎
+
+# 💡 Acknowledgements:
+[![GitHub ReadMe Stats](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra\&repo=github-readme-stats\&show_owner=true\&title_color=c792ea\&icon_color=89ddff\&text_color=a6accd\&bg_color=292d3e)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **KelsiePaige/KelsiePaige** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
