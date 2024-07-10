@@ -5,9 +5,9 @@ My name is Kelsie. I'm a Front-End Developer.
 <h2>About Me</h2>
 I started my programming journey in December 2022 🎊. I enjoy building user friendly web applications ✨. In my free time, you can find me getting lost in a fantasy novel 🧚‍♀️, playing Stardew Valley 🎮 or getting creative in my bullet journal 📗.
 
-<!-- # 💎 Work in Progress
+# 💎 Work in Progress
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=KelsiePaige\&repo=audiophile-ecommerce-website\&title_color=c792ea\&icon_color=89ddff\&text_color=a6accd\&bg_color=292d3e)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=KelsiePaige\&repo=designo-multi-page-website\&title_color=c792ea\&icon_color=89ddff\&text_color=a6accd\&bg_color=292d3e) -->
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=KelsiePaige\&repo=designo\&title_color=c792ea\&icon_color=89ddff\&text_color=a6accd\&bg_color=292d3e)
 
 # ✨ Top Projects
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=KelsiePaige\&repo=guess-the-word\&title_color=c792ea\&icon_color=89ddff\&text_color=a6accd\&bg_color=292d3e)
